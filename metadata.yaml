@@ -1,5 +1,5 @@
 _repo: Resurrection_1938
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Voskresenie. English
 contributor:
   translator:
@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '500'
     url: http://www.gutenberg.org/2009/agents/500
     wikipedia: http://en.wikipedia.org/wiki/Aylmer_and_Louise_Maude
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tolstoy, Leo, graf
@@ -34,6 +37,8 @@ description: "Resurrection (Russian: Воскресение, Voskreseniye), firs
   \ the theory in detail. It was first published serially in the popular weekly magazine\
   \ Niva in an effort to raise funds for the resettlement of the Dukhobors.\n From\
   \ Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1938#Resurrection
 gutenberg_issued: '1999-10-01'
 gutenberg_type: Text
 identifiers:
